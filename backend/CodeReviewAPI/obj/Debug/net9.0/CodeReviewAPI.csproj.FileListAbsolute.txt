@@ -1,0 +1,123 @@
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.staticwebassets.endpoints.json
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.exe
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.deps.json
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.runtimeconfig.json
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.dll
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.pdb
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.sourcelink.json
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\scopedcss\bundle\CodeReviewAPI.styles.css
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeRevi.C33E0173.Up2Date
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.dll
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\refint\CodeReviewAPI.dll
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.pdb
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\Prog. App\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\ref\CodeReviewAPI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.sourcelink.json
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\refint\CodeReviewAPI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.pdb
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.staticwebassets.endpoints.json
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.exe
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.deps.json
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.runtimeconfig.json
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\CodeReviewAPI.pdb
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Azure.AI.OpenAI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Bcl.HashCode.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Extensions.AI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Extensions.AI.Abstractions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Extensions.AI.OpenAI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Extensions.VectorData.Abstractions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.SemanticKernel.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.SemanticKernel.Connectors.AzureOpenAI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.SemanticKernel.Connectors.Ollama.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.SemanticKernel.Connectors.OpenAI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.SemanticKernel.Core.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.SemanticKernel.Plugins.Core.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\OllamaSharp.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\OpenAI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\System.Numerics.Tensors.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\scopedcss\bundle\CodeReviewAPI.styles.css
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeRevi.C33E0173.Up2Date
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\CodeReviewAPI.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\Automated Code Review System\backend\CodeReviewAPI\obj\Debug\net9.0\ref\CodeReviewAPI.dll

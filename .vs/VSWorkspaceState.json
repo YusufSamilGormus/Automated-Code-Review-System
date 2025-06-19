@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\CodeReviewAPI",
+    "\\backend\\CodeReviewAPI\\Controllers",
+    "\\backend\\CodeReviewAPI\\Data",
+    "\\backend\\CodeReviewAPI\\DTOs",
+    "\\backend\\CodeReviewAPI\\Models",
+    "\\backend\\CodeReviewAPI\\Profiles",
+    "\\backend\\CodeReviewAPI\\Services",
+    "\\frontend"
+  ],
+  "PreviewInSolutionExplorer": false
+}
