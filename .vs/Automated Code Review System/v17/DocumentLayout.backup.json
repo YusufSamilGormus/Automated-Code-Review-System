@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\pages\\Dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CodeReviewAPI\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\pages\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CodeReviewAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\pages\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CodeReviewAPI\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CodeReviewAPI\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Data\\ApplicationDbContextFactory.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -25,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\CodeReviewAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CodeReviewAPI\\CodeReviewAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CodeReviewAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env.production||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -63,16 +87,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CodeReviewAPI\\Services\\ILLMService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\CodeReviewAPI\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\VerifyEmail.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\pages\\VerifyEmail.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\pages\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,20 +127,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\pages\\ReviewHistory.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\pages\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\pages\\Dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -145,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\components\\Dashboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -174,63 +174,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Data\\ApplicationDbContextFactory.cs",
-              "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Data\\ApplicationDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Data\\ApplicationDbContextFactory.cs",
-              "RelativeToolTip": "backend\\CodeReviewAPI\\Data\\ApplicationDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:38:51.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "backend\\CodeReviewAPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:36:48.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": ".env.production",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env.production",
-              "RelativeDocumentMoniker": "frontend\\.env.production",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env.production",
-              "RelativeToolTip": "frontend\\.env.production",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-25T15:57:52.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CodeReviewAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\CodeReviewAPI.csproj",
-              "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\CodeReviewAPI.csproj",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\CodeReviewAPI.csproj",
-              "RelativeToolTip": "backend\\CodeReviewAPI\\CodeReviewAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T15:34:56.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -238,12 +186,11 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-25T15:26:46.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T15:26:46.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\Dockerfile",
               "RelativeDocumentMoniker": "frontend\\Dockerfile",
@@ -251,12 +198,11 @@
               "RelativeToolTip": "frontend\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-25T15:24:33.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T15:24:33.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Dockerfile",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Dockerfile",
@@ -264,12 +210,11 @@
               "RelativeToolTip": "backend\\CodeReviewAPI\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-25T15:16:40.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T15:16:40.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "Register.tsx",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Register.tsx",
               "RelativeDocumentMoniker": "frontend\\src\\pages\\Register.tsx",
@@ -277,11 +222,12 @@
               "RelativeToolTip": "frontend\\src\\pages\\Register.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-06-24T17:45:03.289Z"
+              "WhenOpened": "2025-06-24T17:45:03.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "ICodeReviewService.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\ICodeReviewService.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Services\\ICodeReviewService.cs",
@@ -293,19 +239,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CodeReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\CodeReviewService.cs",
-              "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Services\\CodeReviewService.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\CodeReviewService.cs",
-              "RelativeToolTip": "backend\\CodeReviewAPI\\Services\\CodeReviewService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAEkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:07:26.732Z"
+              "DocumentIndex": 3,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env",
+              "RelativeDocumentMoniker": "frontend\\.env",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env",
+              "RelativeToolTip": "frontend\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-25T02:32:46.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Login.tsx",
+              "RelativeDocumentMoniker": "frontend\\src\\pages\\Login.tsx",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Login.tsx",
+              "RelativeToolTip": "frontend\\src\\pages\\Login.tsx",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T17:45:01.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.tsx",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Dashboard.tsx",
+              "RelativeDocumentMoniker": "frontend\\src\\pages\\Dashboard.tsx",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Dashboard.tsx",
+              "RelativeToolTip": "frontend\\src\\pages\\Dashboard.tsx",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T17:44:46.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\App.tsx",
+              "RelativeDocumentMoniker": "frontend\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\App.tsx",
+              "RelativeToolTip": "frontend\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T20:05:29.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\CodeReviewAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:18:32.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": ".env.production",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env.production",
+              "RelativeDocumentMoniker": "frontend\\.env.production",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env.production",
+              "RelativeToolTip": "frontend\\.env.production",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-25T15:57:52.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\appsettings.json",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\appsettings.json",
@@ -318,7 +329,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
+              "Title": "CodeReviewAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\CodeReviewAPI.csproj",
+              "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\CodeReviewAPI.csproj",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\CodeReviewAPI.csproj",
+              "RelativeToolTip": "backend\\CodeReviewAPI\\CodeReviewAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T15:34:56.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "backend\\CodeReviewAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:36:48.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "backend\\CodeReviewAPI\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:38:51.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CodeReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\CodeReviewService.cs",
+              "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Services\\CodeReviewService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\CodeReviewService.cs",
+              "RelativeToolTip": "backend\\CodeReviewAPI\\Services\\CodeReviewService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:07:26.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Program.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Program.cs",
@@ -326,24 +385,11 @@
               "RelativeToolTip": "backend\\CodeReviewAPI\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T07:25:36.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T07:25:36.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "backend\\CodeReviewAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:18:32.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Services\\AuthService.cs",
@@ -355,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "CodeReviewController.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Controllers\\CodeReviewController.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Controllers\\CodeReviewController.cs",
@@ -367,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "ILLMService.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\ILLMService.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Services\\ILLMService.cs",
@@ -379,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\package.json",
               "RelativeDocumentMoniker": "frontend\\package.json",
@@ -387,12 +433,11 @@
               "RelativeToolTip": "frontend\\package.json",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-19T21:44:19.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T21:44:19.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "VerifyEmail.tsx",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\VerifyEmail.tsx",
               "RelativeDocumentMoniker": "frontend\\src\\pages\\VerifyEmail.tsx",
@@ -404,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "ReviewDetail.tsx",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\ReviewDetail.tsx",
               "RelativeDocumentMoniker": "frontend\\src\\pages\\ReviewDetail.tsx",
@@ -412,12 +457,11 @@
               "RelativeToolTip": "frontend\\src\\pages\\ReviewDetail.tsx",
               "ViewState": "AgIAACkAAAAAAAAAAAAAwIUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-06-24T20:19:30.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T20:19:30.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Services\\IAuthService.cs",
@@ -429,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "AuthResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\DTOs\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\DTOs\\AuthResponseDto.cs",
@@ -441,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "AuthDto.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\DTOs\\AuthDto.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\DTOs\\AuthDto.cs",
@@ -453,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "CodeSubmissionDto.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\DTOs\\CodeSubmissionDto.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\DTOs\\CodeSubmissionDto.cs",
@@ -465,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "CreateCodeSubmissionDto.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\DTOs\\CreateCodeSubmissionDto.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\DTOs\\CreateCodeSubmissionDto.cs",
@@ -477,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "index.tsx",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\index.tsx",
               "RelativeDocumentMoniker": "frontend\\src\\index.tsx",
@@ -489,43 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "App.tsx",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\App.tsx",
-              "RelativeDocumentMoniker": "frontend\\src\\App.tsx",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\App.tsx",
-              "RelativeToolTip": "frontend\\src\\App.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-06-24T20:05:29.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Dashboard.tsx",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Dashboard.tsx",
-              "RelativeDocumentMoniker": "frontend\\src\\pages\\Dashboard.tsx",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Dashboard.tsx",
-              "RelativeToolTip": "frontend\\src\\pages\\Dashboard.tsx",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-06-24T17:44:46.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Login.tsx",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Login.tsx",
-              "RelativeDocumentMoniker": "frontend\\src\\pages\\Login.tsx",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\Login.tsx",
-              "RelativeToolTip": "frontend\\src\\pages\\Login.tsx",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-06-24T17:45:01.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "CodeReviewDto.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\DTOs\\CodeReviewDto.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\DTOs\\CodeReviewDto.cs",
@@ -537,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Models\\User.cs",
@@ -549,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "LLMService.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\LLMService.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Services\\LLMService.cs",
@@ -561,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\public\\index.html",
               "RelativeDocumentMoniker": "frontend\\public\\index.html",
@@ -573,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "ReviewHistory.tsx",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\src\\pages\\ReviewHistory.tsx",
               "RelativeDocumentMoniker": "frontend\\src\\pages\\ReviewHistory.tsx",
@@ -585,19 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env",
-              "RelativeDocumentMoniker": "frontend\\.env",
-              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\frontend\\.env",
-              "RelativeToolTip": "frontend\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-25T02:32:46.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Services\\EmailService.cs",
@@ -609,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\Services\\IEmailService.cs",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\Services\\IEmailService.cs",
@@ -621,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Prog. App\\Automated Code Review System\\backend\\CodeReviewAPI\\appsettings.Production.json",
               "RelativeDocumentMoniker": "backend\\CodeReviewAPI\\appsettings.Production.json",

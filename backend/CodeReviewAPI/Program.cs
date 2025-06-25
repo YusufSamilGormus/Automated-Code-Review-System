@@ -74,6 +74,16 @@ builder.Services.AddScoped<ICodeReviewService, CodeReviewService>();
 
 builder.Services.AddScoped<IEmailService, EmailService>();
 
+// Add CORS
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.WithOrigins("http://localhost:3000")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
 // Add controllers
 builder.Services.AddControllers();
@@ -88,6 +98,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors();
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
