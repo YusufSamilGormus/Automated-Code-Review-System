@@ -61,15 +61,20 @@ const Login: React.FC = () => {
                 </button>
             </form>
 
-            <p style={{ marginTop: '15px', textAlign: 'center' }}>
-                Don't have an account?{' '}
-                <span
-                    style={{ color: 'blue', cursor: 'pointer', textDecoration: 'underline' }}
-                    onClick={() => navigate('/register')}
-                >
-                    Register here
-                </span>
-            </p>
+            {/* Register butonu */}
+            <button
+                onClick={() => navigate('/register')}
+                style={{
+                    marginTop: '10px',
+                    width: '100%',
+                    backgroundColor: '#eee',
+                    border: '1px solid #ccc',
+                    padding: '10px',
+                    cursor: 'pointer'
+                }}
+            >
+                Don't have an account? Register
+            </button>
         </div>
     );
 };
