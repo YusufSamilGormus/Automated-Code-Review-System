@@ -3,13 +3,14 @@
     "",
     "\\backend",
     "\\backend\\CodeReviewAPI",
-    "\\backend\\CodeReviewAPI\\Controllers",
     "\\backend\\CodeReviewAPI\\Data",
     "\\backend\\CodeReviewAPI\\DTOs",
     "\\backend\\CodeReviewAPI\\Models",
-    "\\backend\\CodeReviewAPI\\Profiles",
     "\\backend\\CodeReviewAPI\\Services",
-    "\\frontend"
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\pages"
   ],
+  "SelectedNode": "\\docker-compose.yml",
   "PreviewInSolutionExplorer": false
 }

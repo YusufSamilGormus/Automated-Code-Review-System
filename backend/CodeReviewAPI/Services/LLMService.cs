@@ -16,7 +16,7 @@ namespace CodeReviewAPI.Services
 
         public async Task<CodeReview> AnalyzeCode(CodeSubmission submission)
         {
-            var prompt = $@"
+            var prompt = $"""
 You are a code review assistant. Please analyze the following {submission.Language} code:
 
 ```{submission.Language}
@@ -40,7 +40,7 @@ Provide a detailed review with the following format:
    - Implementation weaknesses
    - Testing weaknesses
    - Maintainability issues
-";
+""";
 
             var response = await _kernel.InvokePromptAsync(prompt);
             var reviewText = response.GetValue<string>();
@@ -64,6 +64,26 @@ Provide a detailed review with the following format:
             };
 
             return review;
+        }
+
+        public async Task<string> ContinueReview(CodeSubmission submission, string question)
+        {
+            var prompt = $"""
+You previously reviewed this {submission.Language} code:
+
+```{submission.Language}
+{submission.Code}
+```
+
+Now the user has a follow-up question:
+
+"{question}"
+
+Please provide an appropriate answer as a helpful code review assistant.
+""";
+
+            var response = await _kernel.InvokePromptAsync(prompt);
+            return response.GetValue<string>() ?? "No response from LLM.";
         }
 
         private string ExtractRating(string text)

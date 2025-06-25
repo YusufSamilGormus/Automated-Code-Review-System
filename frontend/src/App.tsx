@@ -1,24 +1,24 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import { Container } from 'react-bootstrap';
-import LoginForm from './components/LoginForm';
-import Dashboard from './components/Dashboard';
-import RegisterForm from './components/RegisterForm';
-import './App.css';
+import { Routes, Route, Navigate } from 'react-router-dom';
+import Login from './pages/Login';
+import Register from './pages/Register';
+import Dashboard from './pages/Dashboard';
+import ReviewHistory from './pages/ReviewHistory';
+import ReviewDetail from './pages/ReviewDetail';
+import VerifyEmail from './pages/VerifyEmail';
 
-function App() {
+const App: React.FC = () => {
   return (
-    <Router>
-      <Container className="app-container">
-        <Routes>
-          <Route path="/" element={<LoginForm />} />
-          <Route path="/register" element={<RegisterForm />} />
-          <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="*" element={<Navigate to="/" replace />} />
-        </Routes>
-      </Container>
-    </Router>
+    <Routes>
+      <Route path="/" element={<Navigate to="/login" />} />
+      <Route path="/login" element={<Login />} />
+      <Route path="/register" element={<Register />} />
+      <Route path="/dashboard" element={<Dashboard />} />
+      <Route path="/history" element={<ReviewHistory />} />
+      <Route path="/review/:id" element={<ReviewDetail />} />
+      <Route path="/verify-email" element={<VerifyEmail />} />
+    </Routes>
   );
-}
+};
 
 export default App;

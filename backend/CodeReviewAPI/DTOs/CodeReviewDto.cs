@@ -34,4 +34,17 @@ namespace CodeReviewAPI.DTOs
 public string Description { get; set; } = string.Empty;
 
     }
+
+    public class ContinueReviewRequest
+    {
+        public int SubmissionId { get; set; }
+        public string Question { get; set; } = string.Empty;
+    }
+
+    public class ChatRequestDto
+    {
+        public int SubmissionId { get; set; }
+        public string Question { get; set; } = string.Empty;
+    }
+
 }

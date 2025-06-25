@@ -18,14 +18,22 @@ namespace CodeReviewAPI.Services
         private readonly IConfiguration _configuration;
         private readonly string _jwtSecret;
         private readonly string _refreshTokenSecret;
+        private readonly IEmailService _emailService;
 
-        public AuthService(ApplicationDbContext context, IConfiguration configuration)
+        public AuthService(ApplicationDbContext context, IConfiguration configuration, IEmailService emailService)
         {
             _context = context;
             _configuration = configuration;
+            _emailService = emailService;
             _jwtSecret = _configuration["Jwt:Secret"] ?? throw new ArgumentNullException("Jwt:Secret not configured");
             _refreshTokenSecret = _configuration["Jwt:RefreshTokenSecret"] ?? throw new ArgumentNullException("Jwt:RefreshTokenSecret not configured");
         }
+
+        private string GenerateEmailVerificationToken()
+        {
+            return Guid.NewGuid().ToString();
+        }
+
 
         public async Task<TokenResponse> Login(LoginDto loginDto)
         {
@@ -40,31 +48,35 @@ namespace CodeReviewAPI.Services
             return await GenerateTokens(user);
         }
 
-        public async Task<TokenResponse> Register(RegisterDto registerDto)
+        public async Task<AuthResponseDto> Register(RegisterDto request)
         {
-            if (registerDto.Password != registerDto.ConfirmPassword)
-            {
-                throw new ArgumentException("Passwords do not match");
-            }
+            if (await _context.Users.AnyAsync(u => u.Email == request.Email))
+                throw new Exception("Email is already in use.");
 
-            if (await _context.Users.AnyAsync(u => u.Email == registerDto.Email))
-            {
-                throw new ArgumentException("Email already registered");
-            }
+            var verificationToken = GenerateEmailVerificationToken();
 
             var user = new User
             {
-                Username = registerDto.Username,
-                Email = registerDto.Email,
-                PasswordHash = HashPassword(registerDto.Password),
-                CreatedAt = DateTime.UtcNow
+                Username = request.Username,
+                Email = request.Email,
+                PasswordHash = BCrypt.Net.BCrypt.HashPassword(request.Password),
+                CreatedAt = DateTime.UtcNow,
+                IsEmailVerified = false,
+                EmailVerificationToken = verificationToken,
+                EmailVerificationTokenExpires = DateTime.UtcNow.AddDays(1)
             };
 
             await _context.Users.AddAsync(user);
             await _context.SaveChangesAsync();
 
-            return await GenerateTokens(user);
+            await _emailService.SendVerificationEmailAsync(user.Email, verificationToken);
+
+            return new AuthResponseDto
+            {
+                Message = "Registration successful. Please check your email to verify your account."
+            };
         }
+
 
         public async Task<TokenResponse> RefreshToken(string refreshToken)
         {

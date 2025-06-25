@@ -11,10 +11,12 @@ namespace CodeReviewAPI.Services
     public class CodeReviewService : ICodeReviewService
     {
         private readonly ApplicationDbContext _context;
+        private readonly ILLMService _llmService;
 
-        public CodeReviewService(ApplicationDbContext context)
+        public CodeReviewService(ApplicationDbContext context, ILLMService llmService)
         {
             _context = context;
+            _llmService = llmService;
         }
 
         public async Task<CodeSubmission> SubmitCodeForReview(int userId, CreateCodeSubmissionDto request)
@@ -34,6 +36,16 @@ namespace CodeReviewAPI.Services
 
             return submission;
         }
+
+        public async Task<string> ContinueReviewWithLLM(int submissionId, string question)
+        {
+            var submission = await _context.CodeSubmissions.FindAsync(submissionId);
+            if (submission == null)
+                throw new ArgumentException("Submission not found");
+
+            return await _llmService.ContinueReview(submission, question);
+        }
+
 
         public async Task<IEnumerable<CodeSubmission>> GetUserSubmissions(int userId)
         {

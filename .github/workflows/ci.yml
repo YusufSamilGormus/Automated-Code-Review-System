@@ -1,0 +1,57 @@
+﻿name: CI Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  backend-test:
+    name: 🧪 Test .NET Backend
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: ./backend
+
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v3
+
+      - name: ⚙️ Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x' # or whatever version you're using
+
+      - name: 📦 Restore dependencies
+        run: dotnet restore
+
+      - name: 🛠️ Build
+        run: dotnet build --no-restore --configuration Release
+
+      - name: 🧪 Run tests
+        run: dotnet test --no-build --verbosity normal
+
+  frontend-lint:
+    name: 🧼 Lint React Frontend
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: ./frontend
+
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v3
+
+      - name: 🧰 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 🧼 Run ESLint
+        run: npm run lint

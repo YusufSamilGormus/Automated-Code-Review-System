@@ -11,6 +11,7 @@ namespace CodeReviewAPI.Services
         Task<IEnumerable<CodeSubmission>> GetUserSubmissions(int userId);
         Task<CodeSubmission?> GetSubmission(int submissionId, int userId);
         Task SaveCodeReview(CodeReview review);
+        Task<string> ContinueReviewWithLLM(int submissionId, string question);
 
         Task DeleteSubmission(CodeSubmission submission); 
         Task UpdateSubmission(CodeSubmission submission); 

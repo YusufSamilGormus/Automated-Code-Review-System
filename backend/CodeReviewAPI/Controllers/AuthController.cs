@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace CodeReviewAPI.Controllers
 {
@@ -21,6 +22,29 @@ namespace CodeReviewAPI.Controllers
             _context = context;
         }
 
+        [HttpPost("verify-email")]
+        [AllowAnonymous]
+        public async Task<IActionResult> VerifyEmail([FromBody] string token)
+        {
+            var user = await _context.Users.FirstOrDefaultAsync(u =>
+                u.EmailVerificationToken == token &&
+                u.EmailVerificationTokenExpires > DateTime.UtcNow);
+
+            if (user == null)
+            {
+                return BadRequest("Invalid or expired token.");
+            }
+
+            user.IsEmailVerified = true;
+            user.EmailVerificationToken = null;
+            user.EmailVerificationTokenExpires = null;
+
+            await _context.SaveChangesAsync();
+
+            return Ok("Email verified successfully.");
+        }
+
+
         [HttpPost("login")]
         public async Task<ActionResult<TokenResponse>> Login([FromBody] LoginDto loginDto)
         {
@@ -29,11 +53,12 @@ namespace CodeReviewAPI.Controllers
         }
 
         [HttpPost("register")]
-        public async Task<ActionResult<TokenResponse>> Register([FromBody] RegisterDto registerDto)
+        public async Task<ActionResult<AuthResponseDto>> Register([FromBody] RegisterDto registerDto)
         {
-            var token = await _authService.Register(registerDto);
-            return Ok(token);
+            var response = await _authService.Register(registerDto);
+            return Ok(response);
         }
+
 
         [HttpPost("refresh-token")]
         public async Task<ActionResult<TokenResponse>> RefreshToken([FromBody] string refreshToken)

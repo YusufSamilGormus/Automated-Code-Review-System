@@ -40,6 +40,20 @@ namespace CodeReviewAPI.Controllers
             return Ok(_mapper.Map<IEnumerable<CodeSubmissionDto>>(submissions));
         }
 
+        // continue the review from selected code review
+        [HttpPost("continue-review")]
+        public async Task<ActionResult> ContinueReview([FromBody] ContinueReviewRequest request)
+        {
+            var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value ?? "0");
+            var submission = await _reviewService.GetSubmission(request.SubmissionId, userId);
+
+            if (submission == null)
+                return NotFound();
+
+            var answer = await _reviewService.ContinueReviewWithLLM(submission.Id, request.Question);
+            return Ok(new { answer });
+        }
+
         // Get specific code submission
         [HttpGet("submission/{id}")]
         public async Task<ActionResult<CodeSubmissionDto>> GetSubmission(int id)
