@@ -60,6 +60,16 @@ const Login: React.FC = () => {
                     Login
                 </button>
             </form>
+
+            <p style={{ marginTop: '15px', textAlign: 'center' }}>
+                Don't have an account?{' '}
+                <span
+                    style={{ color: 'blue', cursor: 'pointer', textDecoration: 'underline' }}
+                    onClick={() => navigate('/register')}
+                >
+                    Register here
+                </span>
+            </p>
         </div>
     );
 };
